@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Retos/">
+    <Project Path="Retos/RetoExcepciones/RetoExcepciones.csproj" />
+    <Project Path="Retos/RetoInterfaces/RetoInterfaces.csproj" />
+  </Folder>
+</Solution>
