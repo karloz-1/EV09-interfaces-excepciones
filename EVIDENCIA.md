@@ -14,16 +14,16 @@ Salida:
 
 ```text
 === RETO INTERFACES: IMediaPlayer ===
-Pista cargada: Pista 1 - Aprender C#
-Reproduciendo: Pista 1 - Aprender C#
-Pista en pausa: Pista 1 - Aprender C#
-Pista actual: Pista 1 - Aprender C#
-Pista detenida: Pista 1 - Aprender C#
-Pista cargada: Pista 2 - Interfaces en C#
-Reproduciendo: Pista 2 - Interfaces en C#
-Pista en pausa: Pista 2 - Interfaces en C#
-Pista actual: Pista 2 - Interfaces en C#
-Pista detenida: Pista 2 - Interfaces en C#
+Pista cargada: Pista 1 - All I Ever Wanted (Radio Edit)
+Reproduciendo: Pista 1 - All I Ever Wanted (Radio Edit)
+Pista en pausa: Pista 1 - All I Ever Wanted (Radio Edit)
+Pista actual: Pista 1 - All I Ever Wanted (Radio Edit)
+Pista detenida: Pista 1 - All I Ever Wanted (Radio Edit)
+Pista cargada: Pista 2 - Dream On The Floor (Radio Edit)
+Reproduciendo: Pista 2 - Dream On The Floor (Radio Edit)
+Pista en pausa: Pista 2 - Dream On The Floor (Radio Edit)
+Pista actual: Pista 2 - Dream On The Floor (Radio Edit)
+Pista detenida: Pista 2 - Dream On The Floor (Radio Edit)
 Fin del programa.
 ```
 

@@ -11,13 +11,13 @@ internal class Program
         // La variable IMediaPlayer solo conoce los metodos del contrato.
         IMediaPlayer reproductor = musicPlayer;
 
-        musicPlayer.LoadTrack("Pista 1 - Aprender C#");
+        musicPlayer.LoadTrack("Pista 1 - All I Ever Wanted (Radio Edit)");
         reproductor.Play();
         reproductor.Pause();
         Console.WriteLine($"Pista actual: {reproductor.GetCurrentTrack()}");
         reproductor.Stop();
 
-        musicPlayer.LoadTrack("Pista 2 - Interfaces en C#");
+        musicPlayer.LoadTrack("Pista 2 - Dream On The Floor (Radio Edit)");
         reproductor.Play();
         reproductor.Pause();
         Console.WriteLine($"Pista actual: {reproductor.GetCurrentTrack()}");
